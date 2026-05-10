@@ -2,5 +2,5 @@ github.com/google/btree v1.1.3 h1:CVpQJjYgC4VbzxeGVHfvZrv1ctoYCAI8vbl07Fcxlyg=
 github.com/google/btree v1.1.3/go.mod h1:qOPhT0dTNdNzV6Z/lhRX0YXUafgPLFUh+gZMl761Gm4=
 github.com/tidwall/btree v1.8.1 h1:27ehoXvm5AG/g+1VxLS1SD3vRhp/H7LuEfwNvddEdmA=
 github.com/tidwall/btree v1.8.1/go.mod h1:jBbTdUWhSZClZWoDg54VnvV7/54modSOzDN7VXftj1A=
-github.com/tidwall/btype v0.1.0 h1:wzSEYf/LG0CqSroH4/yIiwKJyro6K+LooQWWy6O9MZw=
-github.com/tidwall/btype v0.1.0/go.mod h1:IRq7GmniRp9OhEKPIalEyUe/3x9oR8AuuKrdv0ANFbc=
+github.com/tidwall/btype v0.2.0 h1:xYfiSwqmWxWMb9bi4d6d1xu9t/Bd6dGt0+1fpQp7haM=
+github.com/tidwall/btype v0.2.0/go.mod h1:IRq7GmniRp9OhEKPIalEyUe/3x9oR8AuuKrdv0ANFbc=
